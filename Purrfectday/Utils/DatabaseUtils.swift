@@ -223,13 +223,23 @@ class DatabaseUtils {
     }
     
     // MARK: 회원가입
-    // 데이터가 존재하지 않는 유저 초기 설정
     func setUserData(completion: @escaping (Bool) -> Void) {
         let yesterday = Calendar.current.date(byAdding: .day, value: -1, to: Date())
         let date = self.dateFormatter(date: yesterday!)
+        let email = self.user!.email! as String
+        let uid = self.user!.uid
+        
+        let split = email.split(separator: "@")
+        let id = split[0]
+        let domain = split[1].split(separator: ".")[0]
+        
+        print("email/domain/\(domain)/\(id)")
+        self.ref.child("email/domain/\(domain)/\(id)").setValue(uid)
+        
+        self.ref.child("email/domain/\(domain)/test").setValue("uid")
         
         self.userRef.setValue([
-            "email": self.user!.email! as String,
+            "email": email,
             "catInfo": ["mainCat": "01", "tamedCat": ["01": ["name": ""]]],
             "inventory": ["wall": ["01": ["01": "wall_01_01"]], "floor": ["01": ["01": "floor_01_01"]],
                           "molding": ["01": ["01": "molding_01_01"]], "placed": ["wall": "wall_01_01", "floor": "floor_01_01", "molding": "molding_01_01"]],
