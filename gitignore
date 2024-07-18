@@ -1,0 +1,7 @@
+GoogleService-Info.plist
+*.xcuserstate
+Pods/
+.DS_Store
+Podfile
+Podfile.lock
+Manifest.lock

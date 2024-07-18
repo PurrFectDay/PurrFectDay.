@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="22505" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22504"/>
+        <capability name="Image references" minToolsVersion="12.0"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="UIMenu" message="Requires Xcode 11 or later." minToolsVersion="11.0" requiredIntegratedClassName="UICommandDiff"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CustomHeaderView" customModule="Purrfectday" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="z66-NW-AGH" customClass="CustomHeaderView" customModule="Purrfectday" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="h34-bG-stA">
+                    <rect key="frame" x="16" y="4" width="361" height="36"/>
+                    <subviews>
+                        <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="fill" contentVerticalAlignment="center" lineBreakMode="characterWrap" translatesAutoresizingMaskIntoConstraints="NO" id="DX7-wO-yPY">
+                            <rect key="frame" x="0.0" y="0.0" width="61" height="36"/>
+                            <color key="backgroundColor" name="OliveGreen"/>
+                            <color key="tintColor" name="Transparent"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="16" maxY="0.0"/>
+                            <state key="normal" title=" ">
+                                <color key="titleColor" name="Cream"/>
+                                <imageReference key="image" image="plus.circle.fill" catalog="system" symbolScale="small"/>
+                            </state>
+                            <buttonConfiguration key="configuration" style="plain" imagePlacement="trailing" title=" " imagePadding="16">
+                                <imageReference key="image" image="plus.circle.fill" catalog="system" symbolScale="small"/>
+                                <color key="baseForegroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </buttonConfiguration>
+                        </button>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2h6-ZW-BcA">
+                            <rect key="frame" x="69" y="0.0" width="248" height="36"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" name="OliveGreen"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="scaleToFill" showsMenuAsPrimaryAction="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oVH-rw-Exo">
+                            <rect key="frame" x="325" y="0.0" width="36" height="36"/>
+                            <constraints>
+                                <constraint firstAttribute="width" secondItem="oVH-rw-Exo" secondAttribute="height" multiplier="1:1" id="7o4-Kb-npS"/>
+                            </constraints>
+                            <color key="tintColor" name="OliveGreen"/>
+                            <menu key="menu" title="목표" id="Z18-E4-huT">
+                                <children>
+                                    <command title="수정" id="MDi-db-SBD"/>
+                                    <command title="삭제" id="Z4G-ZP-OV5"/>
+                                    <command title="보관" id="xkf-nF-MNd"/>
+                                </children>
+                            </menu>
+                            <state key="normal">
+                                <color key="titleColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <imageReference key="image" image="ellipsis.rectangle.fill" catalog="system" symbolScale="large"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="cZH-lz-ZFB"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="h34-bG-stA" secondAttribute="bottom" constant="4" id="SjE-0D-mOp"/>
+                <constraint firstItem="cZH-lz-ZFB" firstAttribute="trailing" secondItem="h34-bG-stA" secondAttribute="trailing" constant="16" id="k3h-6p-tzW"/>
+                <constraint firstItem="h34-bG-stA" firstAttribute="top" secondItem="z66-NW-AGH" secondAttribute="top" constant="4" id="nRJ-lH-UBO"/>
+                <constraint firstItem="h34-bG-stA" firstAttribute="leading" secondItem="cZH-lz-ZFB" secondAttribute="leading" constant="16" id="zwn-Al-HcD"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="addTodoButton" destination="DX7-wO-yPY" id="GMN-az-Q6x"/>
+                <outlet property="ellipsisButton" destination="oVH-rw-Exo" id="3ZX-zf-c6C"/>
+                <outlet property="endDateLabel" destination="2h6-ZW-BcA" id="PZ5-ux-zLY"/>
+            </connections>
+            <point key="canvasLocation" x="41.984732824427482" y="338.02816901408454"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ellipsis.rectangle.fill" catalog="system" width="128" height="79"/>
+        <image name="plus.circle.fill" catalog="system" width="128" height="123"/>
+        <namedColor name="Cream">
+            <color red="0.9882352941176471" green="0.97647058823529409" blue="0.92549019607843142" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="OliveGreen">
+            <color red="0.40000000000000002" green="0.55294117647058827" blue="0.23529411764705882" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="Transparent">
+            <color red="1" green="1" blue="1" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
