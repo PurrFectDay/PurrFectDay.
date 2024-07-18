@@ -2961,7 +2961,7 @@
                                             <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="8Fc-XO-mCJ">
                                                 <rect key="frame" x="16" y="0.0" width="345" height="60"/>
                                                 <subviews>
-                                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="fill" contentVerticalAlignment="center" placeholder="친구에게 응원의 메시지를 보내봐라 냥" textAlignment="justified" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6aw-hf-Eif">
+                                                    <textField opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="248" contentHorizontalAlignment="fill" contentVerticalAlignment="center" placeholder="친구에게 발자국을 남겨봐라 냥" textAlignment="justified" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="6aw-hf-Eif">
                                                         <rect key="frame" x="0.0" y="0.0" width="285" height="60"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                         <textInputTraits key="textInputTraits"/>
@@ -3130,7 +3130,7 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="mXt-tC-4PY"/>
-        <segue reference="eSa-0l-PDr"/>
+        <segue reference="glF-Hy-cah"/>
         <segue reference="inb-l7-VEJ"/>
     </inferredMetricsTieBreakers>
     <resources>

@@ -1193,10 +1193,10 @@ protocol DateButtonTappedDelegate {
 extension HomeViewController: DateButtonTappedDelegate {
     func dateButtonTapped(index: IndexPath) {
         if calendarTypeNumber == 2 {
+            self.calendarChangeButton.setTitle("월", for: .normal)
+            self.calendarView.frame.size.height = 280
+            self.calendarView.scope = .month
             calendarTypeNumber = 0
-            calendarView.isHidden = false
-            calendarView.scope = .month
-            calendarView.frame.size.height = 280
             
             let dateString = todoListArray[index.section][index.row][2] as! String
             let dateFormatter = DateFormatter()
@@ -1205,7 +1205,23 @@ extension HomeViewController: DateButtonTappedDelegate {
                 calendarView.select(date, scrollToDate: true)
                 self.d_date = date
                 self.s_date = dateString
-                self.loadGoalsAndTodos(for: dateString)
+            }
+            
+            DatabaseUtils.shared.getTodoByDate(date: self.s_date) { [weak self] todoData in
+                guard let self = self else { return }
+                self.todoListArray = todoData
+                DispatchQueue.main.async {
+                    UIView.animate(withDuration: 0.5, animations: {
+                        self.calendarView.isHidden = false
+                        self.view.layoutIfNeeded()
+                    }, completion: { _ in
+                        self.todoTableView.performBatchUpdates({
+                            self.todoTableView.reloadSections(IndexSet(integer: 0), with: .automatic)
+                        }, completion: { _ in
+                            self.todoTableView.setContentOffset(.zero, animated: true) // 테이블 뷰를 가장 위로 스크롤
+                        })
+                    })
+                }
             }
         }
     }
