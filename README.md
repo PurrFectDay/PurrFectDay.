@@ -1,4 +1,4 @@
-<img src="README/title.png" style="width: 100%;">
+<img src="readme_assets/title.png" style="width: 100%;">
 
 # PurrFectDay.😻
 
@@ -16,7 +16,7 @@
 
 ### 왜 PurrFectDay.인가요?
 
-<img src="README/name.png" width="70%">
+<img src="readme_assets/name.png" width="70%">
 
 고양이가 기분 좋을 때 내는 소리를 아시나요? 고양이는 기분 좋을 때 그르릉😸거리는 목울림 소리를 낸답니다!
 우리나라에서는 이걸 골골송이라고도 하죠. `Purr`는 골골송의 영어식 표현이에요.
@@ -52,7 +52,7 @@
 
 ### Navi 나비
 
-<img src="README/navi.png" alt="나비" style="float: left; width: 5rem; margin-right: 1rem"/>
+<img src="readme_assets/navi.png" alt="나비" style="float: left; width: 5rem; margin-right: 1rem"/>
 
 안녕하세요! `나비`예요.😸 `나비`는 여러분과 일상을 함께하고 일정을 관리해 줄 `러닝메이트`예요!
 
@@ -60,13 +60,13 @@
 
 | 코코 | 까미 | 치즈 | 망고 | 모모 | 절미 | 양말이 | 하루 | 보리 | 루나 | 쿠키 |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="README/coco.png" alt="코코" style="width: 5rem; margin-right: 1rem"/> | <img src="README/kkami.png" alt="까미" style="width: 5rem; margin-right: 1rem"/> | <img src="README/cheese.png" alt="치즈" style="width: 5rem; margin-right: 1rem"/> | <img src="README/mango.png" alt="망고" style="width: 5rem; margin-right: 1rem"/> | <img src="README/momo.png" alt="모모" style="width: 5rem; margin-right: 1rem"/> | <img src="README/julmi.png" alt="절미" style="width: 5rem; margin-right: 1rem"/> | <img src="README/yangmal.png" alt="양말이" style="width: 5rem; margin-right: 1rem"/> | <img src="README/haru.png" alt="하루" style="width: 5rem; margin-right: 1rem"/> | <img src="README/bori.png" alt="보리" style="width: 5rem; margin-right: 1rem"/> | <img src="README/luna.png" alt="루나" style="width: 5rem; margin-right: 1rem"/> | <img src="README/cookie.png" alt="쿠키" style="width: 5rem; margin-right: 1rem"/> | 
+| <img src="readme_assets/coco.png" alt="코코" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/kkami.png" alt="까미" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/cheese.png" alt="치즈" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/mango.png" alt="망고" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/momo.png" alt="모모" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/julmi.png" alt="절미" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/yangmal.png" alt="양말이" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/haru.png" alt="하루" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/bori.png" alt="보리" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/luna.png" alt="루나" style="width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/cookie.png" alt="쿠키" style="width: 5rem; margin-right: 1rem"/> | 
 
 ### 우리의 색
 
 | **#005F30** | **#668D3C** | **#FCF9EC** | **#D1DAC9** | **#FFA9C8** |
 |----------|----------|----------|----------|----------|
-| <img src="README/color1.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="README/color2.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="README/color3.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="README/color4.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="README/color5.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> |
+| <img src="readme_assets/color1.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/color2.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/color3.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/color4.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> | <img src="readme_assets/color5.png" alt="브랜드 컬러" style="max-width: 5rem; margin-right: 1rem"/> |
 
 ### 상세 페이지
 
@@ -74,9 +74,9 @@
 
 | 로그인 | 비밀번호 재설정 | 회원가입 | 이메일 인증 | 인증완료 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_01.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_02.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_03.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_04.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_05.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_01.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_02.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_03.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_04.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_05.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 | 기본 고양이 | 프로필 설정 |  | |  |
-| <img src="README/demo_06.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_07.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | | | |
+| <img src="readme_assets/demo_06.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_07.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | | | |
 
 - 이메일과 비밀번호를 통해 로그인이 가능합니다.
     - 이전에 로그인한 기록이 남아있다면, 자동으로 로그인 됩니다.
@@ -89,7 +89,7 @@
 
 | 더러운 마이홈 | 고양이 터치 | 고양이 쓰다듬기 | 방 청소 (포인트 차감) | 
 |----------|----------|----------|----------|
-| <img src="README/demo_08.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_09.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_10.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_11.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_08.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_09.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_10.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_11.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 마이홈에서는 고양이가 자유롭게 돌아다닙니다.
 - 고양이와 상호작용할 수 있어요.
@@ -106,14 +106,14 @@
 
 | 목표 추가/관리 | 목표 추가 | 할일 추가 | 할일 추가 완료 | 할일 체크 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_12.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_13.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_14.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_15.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_16.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_12.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_13.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_14.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_15.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_16.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 목표(+) 버튼을 누르면 해당 목표에 할일을 추가할 수 있습니다.
 - 오늘의 할 일 완료도가 표시 됩니다.
 
 | 주 모드 | 전체 모드 | 힐일 내용 수정 | 빈 내용 경고 | 할일 삭제 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_17.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_18.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_19.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_20.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_21.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_17.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_18.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_19.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_20.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_21.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 월, 주, 전체 모드가 존재합니다.
   - 전체 모드에서는 미완료된 할일만 노출됩니다.
@@ -124,7 +124,7 @@
 
 | 할일 체크 해제 | 할일 순서 변경 | 진행 중인 목표 | 목표 수정 | 목표 삭제 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_22.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_23.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_24.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_25.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_26.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_22.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_23.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_24.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_25.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_26.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 목표를 추가, 수정, 삭제, 보관할 수 있습니다.
     - 목표를 삭제하면 하위의 할일들이 전부 삭제됩니다.
@@ -132,7 +132,7 @@
 
 | 루틴 추가 | 루틴 추가 완료 | 목표 보관 | 목표 관리 |
 |----------|----------|----------|----------|
-| <img src="README/demo_27.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_28.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_29.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_30.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_27.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_28.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_29.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_30.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 각 목표에 루틴을 추가할 수 있습니다.
 - 목표 관리 페이지에서도 목표 추가, 수정, 삭제, 보관이 가능합니다.
@@ -141,11 +141,11 @@
 
 | 벽지 | 상점 | 몰딩 | 창문 | 러그 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_31.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_32.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_33.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_34.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_35.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_31.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_32.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_33.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_34.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_35.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 | 테이블 | 의자 | 소파 | 조명 | 식물 | 캣타워 |
 |----------|----------|----------|----------|----------|----------|
-| <img src="README/demo_36.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |<img src="README/demo_37.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_38.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_39.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_40.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_41.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_36.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |<img src="readme_assets/demo_37.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_38.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_39.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_40.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_41.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
         
 - 상점에서는 벽지, 바닥, 몰딩, 창문, 러그, 테이블, 의자, 소파, 조명, 식물, 캣타워 총 11 종류의 아이템을 구매할 수 있습니다.
 - 각 카테고리 별로 한 번에 하나의 아이템만 배치가 가능합니다.
@@ -155,7 +155,7 @@
 
 | 도감 | 고양이 입양하기 | 입양 완료 | 프로필에 추가 |
 |----------|----------|----------|----------|
-| <img src="README/demo_42.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_43.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_44.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_45.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_42.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_43.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_44.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_45.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 총 12마리의 고양이가 있습니다.
 - 아직 만나지 못한 고양이는 흐리게 보여요.
@@ -165,14 +165,14 @@
 
 | 친구 찾기 | 서로이웃 요청 | 서로이웃 요청 완료 | 서로이웃 방문 |
 |----------|----------|----------|----------|
-| <img src="README/demo_46.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_47.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_48.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_49.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_46.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_47.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_48.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_49.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 이메일을 통해 친구를 검색해 서로이웃 요청을 보낼 수 있습니다.
 - 친구가 서로이웃 요청을 수락하면 이웃이 되어 서로의 방과 오늘의 할일 및 완료도를 확인할 수 있어요.
 
 | 메시지 보내기 | 메시지 보내기 확인 | 메시지 보내기 완료 |
 |----------|----------|----------|
-| <img src="README/demo_50.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_51.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_52.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_50.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_51.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_52.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 친구에게 응원의 메시지를 보낼 수 있습니다.
     - 한 번 보낸 메시지는 취소할 수 없으니 신중하게 보내세요.
@@ -182,7 +182,7 @@
 
 | 프로필 수정 | 선택 가능한 고양이 | 새로운 고양이 이름 짓기 | 이름 짓기 완료 | 마이홈에 고양이 노출 |
 |----------|----------|----------|----------|----------|
-| <img src="README/demo_53.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_54.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_55.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_56.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_57.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_53.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_54.png" alt="Image 2" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_55.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_56.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_57.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
         
 - 도감에서 입양한 고양이들로 프로필 이미지를 바꿀 수 있습니다.
 - 처음 입양한 고양이에게 이름을 지어줄 수 있습니다.
@@ -193,7 +193,7 @@
 
 | 환경 설정 | 소리 설정 | 비밀번호 재설정 | 회원 탈퇴 | 본인 인증 | 회원 탈퇴 완료 |
 |----------|----------|----------|----------|----------|----------|
-| <img src="README/demo_58.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_59.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_60.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_61.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_62.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="README/demo_63.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
+| <img src="readme_assets/demo_58.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_59.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_60.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_61.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_62.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> | <img src="readme_assets/demo_63.png" alt="데모" style="display: inline-block; margin: 0.5rem;"> |
 
 - 소리를 설정할 수 있습니다.
     - 배경음과 효과음 각각 다르게 설정할 수 있습니다.
