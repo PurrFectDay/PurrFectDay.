@@ -1,6 +1,6 @@
-<img src="readme_assets/title.png" style="width: 100%;">
-
 # PurrFectDay.😻
+
+<img src="readme_assets/title.png" style="width: 100%;">
 
 📅 2024.03.26 ~ 2023.06.11
 
