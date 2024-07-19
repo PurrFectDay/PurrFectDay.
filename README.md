@@ -1,17 +1,18 @@
+<img src="README/title.png" style="width: 100%;">
+
 # PurrFectDay.😻
 
 📅 2024.03.26 ~ 2023.06.11
 
-
-
 # PurrFectDay.란?
 
-<img src="README/logo.png" style="float: right; width: 20%; margin-left: 2rem; border-radius: 2rem; border: 0.2rem solid #D1DAC9;">
 팀 `PurrFect`에서 개발한, 꾸미기 게임의 오락성과 투두리스트의 기능성이 합쳐진 iOS 어플리케이션이에요!
 
 다양한 고양이 캐릭터와 가구들을 수집해 방을 꾸미고, 소셜 기능을 통해 친구와 서로 긍정적인 자극을 주고받으며 목표한 할일을 완수할 수 있도록 돕습니다.
 
-여러분의 소소한 일상을 우리 `PurrFectDay.`의 귀~여운 고양이들이 동행할게요! `PurrFectDay.`를 통해 매일매일 소소한 성취를 얻어가세요~!!
+여러분의 소소한 일상을 우리 `PurrFectDay.`의 귀~여운 고양이들이 동행할게요!
+
+`PurrFectDay.`를 통해 매일매일 소소한 성취를 얻어가세요~!!
 
 ### 왜 PurrFectDay.인가요?
 
