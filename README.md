@@ -205,7 +205,7 @@
 
 ## Demo
 
-<div class="hyde youtube" id="J1HNExVYT9w"></div>
+[Go to Youtube](https://youtu.be/J1HNExVYT9w?si=R4OpM9TRIBv9MclC)
 
 ### Team members
 - 🧑‍💻 김정현(Jeong-Hyeon Kim) `codingkirby0@gmail.com`
